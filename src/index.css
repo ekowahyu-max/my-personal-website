@@ -1,0 +1,7 @@
+/* * This file contains the directives that Tailwind CSS uses to inject 
+ * its base styles, component styles, and utility classes.
+ * This is the file imported by src/main.jsx.
+ */
+ @tailwind base;
+ @tailwind components;
+ @tailwind utilities;
