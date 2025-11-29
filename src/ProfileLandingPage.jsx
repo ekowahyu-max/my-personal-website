@@ -229,7 +229,7 @@ const FooterSection = () => (
       </div>
       <div className="mt-8 pt-6 border-t border-gray-700">
         <p className="text-sm text-gray-500">
-          &copy; {new Date().getFullYear()} {profile.name}. Built by Eko wahyu saputro.
+          &copy; {new Date().getFullYear()} {profile.name}. Built by React & Tailwind CSS.
         </p>
       </div>
     </div>
