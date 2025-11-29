@@ -7,7 +7,7 @@ const profile = {
   title: "Senior Software Engineer",
   yearsOfExperience: 10,
   tagline: "Leveraging 10 Years of Experience in Building High-Scale Digital Solutions Across Diverse Industries.",
-  imageUrl: "/img/profile.jpg", // Dark theme placeholder
+  imageUrl: "/public/profile.jpg", // Dark theme placeholder
   expertise: [
     { icon: Code, title: "Web Development", details: "Full-Stack frontend and backend development using React, Next.js, Node.js, and TypeScript." },
     { icon: Briefcase, title: "Mobile Development", details: "Expertise in cross-platform development using **Flutter** and React Native, alongside Native Development (Swift/Kotlin) for high-performance iOS and Android applications." },
